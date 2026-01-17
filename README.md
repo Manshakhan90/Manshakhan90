@@ -71,5 +71,5 @@ To grow as a **Full-Stack Web Developer**, gain real-world experience, and contr
 
 <div align="center">
 💫 Thanks for visiting my profile! 💫  
-![Visitor Count](https://profile-counter.glitch.me/Manshazia90/count.svg)
-</div>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
+
