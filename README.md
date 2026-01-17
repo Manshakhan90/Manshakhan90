@@ -33,41 +33,20 @@ Board of Secondary Education, Mardan
 
 ---
 
-## 💻 Projects
-- [Portfolio Website](https://github.com/YourGitHubUsername/portfolio) - A responsive personal website built with HTML, CSS, and JavaScript.  
-- [ToDo App](https://github.com/YourGitHubUsername/todo-app) - A dynamic ToDo list app using JavaScript and jQuery.  
-- [Bootstrap Landing Page](https://github.com/YourGitHubUsername/bootstrap-landing) - Modern responsive landing page using Bootstrap.
-
----
-
 ## 🌐 Languages
-* English  
-* Urdu  
+* English
+* Urdu
 * Pashto
 
 ---
 
 ## 🎨 Hobbies & Interests
-* Reading  
-* Sketching & Painting  
-* Cooking  
+* Reading
+* Sketching & Painting
+* Cooking
 * Travelling
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Mansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-</div>
 
 ---
 
 ## 🚀 Career Goal
 To grow as a **Full-Stack Web Developer**, gain real-world experience, and contribute to meaningful projects while continuously learning new technologies.
-
----
-
-⭐ *Designed as a professional GitHub Profile README*
