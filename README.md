@@ -4,7 +4,7 @@
 
 # 👩‍💻 **Mansha Zia**
 ### **Aspiring Web Developer**
-📍 Karachi, Pakistan • 📧 [Manshazia90@gmail.com](mailto:Manshazia90@gmail.com) • 📞 0318‑0936004
+📍 Karachi, Pakistan • 📧 [Manshazia90@gmail.com](mailto:manshazia90@gmail.com) • 
 
 </div>
 
@@ -20,11 +20,8 @@ I enjoy **learning, creating, and collaborating** on meaningful projects. 🚀
 ## 🎓 Education
 **Intermediate (1st Year – In Progress)**  
 Board of Intermediate Education, Karachi
+college:bel college
 
-**Matriculation**  
-Board of Secondary Education, Mardan
-
----
 
 ## 🛠️ Technical Skills
 <div align="center">
@@ -34,7 +31,6 @@ Board of Secondary Education, Mardan
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a href="#"><img src="https://img.shields.io/badge/jQuery-DeepBlue?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /></a>
-<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 </div>
