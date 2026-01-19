@@ -20,6 +20,7 @@ I enjoy **learning, creating, and collaborating** on meaningful projects. 🚀
 ## 🎓 Education
 **Intermediate (1st Year – In Progress)**  
 Board of Intermediate Education, Karachi
+<br>
 college:bel college
 
 
