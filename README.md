@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👩‍💻 **Mansha Zia**
-### **Aspiring Web Developer**
-📍 Karachi, Pakistan • 📧 [Manshazia90@gmail.com](mailto:manshazia90@gmail.com) • 
+# 👩‍💻 ** I'm Mansha Zia**
+### **Full step Web Developer**
+📍 Karachi, Pakistan • 📧 [manshazia90@gmail.com](mailto:manshazia90@gmail.com) • 
 
 </div>
 
@@ -21,7 +21,7 @@ I enjoy **learning, creating, and collaborating** on meaningful projects. 🚀
 **Intermediate (1st Year – In Progress)**  
 Board of Intermediate Education, Karachi
 <br>
-college:bel college
+Bel college
 
 
 ## 🛠️ Technical Skills
