@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👩‍💻 ** I'm Mansha Zia**
-### **Full step Web Developer**
+### **Full stack Web Developer**
 📍 Karachi, Pakistan • 📧 [manshazia90@gmail.com](mailto:manshazia90@gmail.com) • 
 
 </div>
